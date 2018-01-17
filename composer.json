@@ -1,0 +1,21 @@
+{
+    "name": "alexqwert/medPlusClientArzonDocApi",
+    "description": "MedPlus client to ArzonDoc API",
+    "keywords": ["ArzonDoc API", "MedPlus"],
+    "authors": [
+        {
+            "name": "Anvar Raximov",
+            "email": "alexqwert@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "monolog/monolog": "^2.0@dev",
+        "guzzlehttp/guzzle": "~6.0",
+        "catfan/medoo": "dev-master"
+    }
+}
