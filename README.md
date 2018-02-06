@@ -1,8 +1,6 @@
-<p align="center">
-    
-    <h1 align="center">Клиент для API ArzonDoc.uz</h1>
-    <br>
-</p>
+Клиент для API ArzonDoc.uz
+============================
+
 
 ТРЕБОВАНИЯ
 ------------
